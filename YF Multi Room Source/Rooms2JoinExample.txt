@@ -1,0 +1,56 @@
+hispanic and latino chat:1
+hispanic and latino chat:2
+hispanic and latino chat:3
+board games:1
+board games:2
+board games:3
+yahoo fighter:1
+metal:1
+metal:2
+rock:1
+rock:2
+australia:1
+australia:2
+australia:3
+australia:4
+australia:5
+australia:6
+australia:7
+australia:8
+australia:11
+sydney global chat:1
+sydney global chat:2
+sydney global chat:3
+sydney global chat:5
+auckland global chat:1
+auckland global chat:2
+new zealand:1
+new zealand:2
+hackers' lounge:1
+programming:1
+computers lobby:1
+computers lobby:2
+indigenous peoples:1
+black chat:1
+black chat:2
+black chat:3
+african american chat:1
+transgendered:1
+transgendered:2
+transgendered:3
+canada:1
+canada:2
+canada:3
+canada:4
+canada:7
+canada:11
+montreal global chat:1
+montreal global chat:2
+montreal global chat:3
+toronto global chat:1
+toronto global chat:2
+toronto global chat:3
+toronto global chat:4
+vancouver global chat:1
+vancouver global chat:2
+vancouver global chat:3
